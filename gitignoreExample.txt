@@ -1,0 +1,1 @@
+POSTGRES_URL=host=host port=port user=user password=password dbname=dbanme sslmode=disable
